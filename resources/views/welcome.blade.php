@@ -28,7 +28,7 @@
 </head>
 <body>
 <div id="app">
-
+<nav-section><nav-section>
 </div>
 <script src="js/app.js"></script>
 </body>
